@@ -1,1 +1,1 @@
-### [Guide to getting started with Android & engineers designers](https://github.com/nstevens/androidguide/wiki)
+### [Guide](https://github.com/nstevens/androidguide/wiki) to getting started with Android & engineers designers
