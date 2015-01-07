@@ -14,7 +14,7 @@ Since Android is not owned by one device company, every top manufacturer has tri
 
 This does not mean we can't be creative.  There are so many options and customizations even within stock & widely supported libraries.
 
-[These](https://github.com/nstevens/androidguide/wiki/Libraries) are the libraries the Prismatic Android app uses today.
+[These](Libraries.md) are the libraries the Prismatic Android app uses today.
 
 ### We are creative and take advantage of the unique attributes of Android
 Unique Android attributes include global share intents for info coming into and leaving our app, back button and navigation between apps, rich notifications, fragments and scalable design across screen sizes and densities. [@Stammy](http://twitter.com/stammy) has a good overview of unique attributes [here](http://paulstamatiou.com/android-is-better/).
@@ -27,4 +27,4 @@ Fragment reuse means we can stack views on top of each other on a phone but pote
 ### Using the Play Store for alpha & beta testing
 At Prismatic, we use the Play Store to internally dog food the latest builds (alpha channel) and test newly implemented ideas with a handful of invited beta testers (beta channel) before rolling the changes to everyone (prod channel).
 
-Instructions to set up your own channels are [here](https://github.com/nstevens/androidguide/wiki/Play-Store-Alpha-&-Beta-Channel).
+Instructions to set up your own channels are [here](PlayStoreAlpha&BetaChannel).

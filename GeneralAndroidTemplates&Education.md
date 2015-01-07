@@ -1,5 +1,5 @@
 ### Android libraries
-There are all the libraries we use in the app today: [libraries](https://github.com/nstevens/androidguide/wiki/Libraries)
+There are all the libraries we use in the app today: [libraries](Libraries)
 
 ### Build.gradle
 We use [gradle](http://developer.android.com/sdk/installing/studio-build.html) as our build system, the default with Android Studio.  Here are the customizations we've made to our `build.gradle` file:

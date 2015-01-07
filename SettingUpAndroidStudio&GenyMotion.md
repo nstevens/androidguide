@@ -34,7 +34,7 @@ Between rounds, you may have to quit SDK Manager and restart it from the 'Welcom
 
 ### Importing the project
 
-Assuming you are already [setup with git and github](https://github.com/nstevens/androidguide/wiki/Setting-up-git), first: clone the repo from your terminal:
+Assuming you are already [setup with git and github](SettingUpGit.md), first: clone the repo from your terminal:
 
 ````
 cd ~/
