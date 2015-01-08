@@ -47,3 +47,6 @@ Reasons:
 ![](http://i.imgur.com/b0ogonl.png)
 
 Full details in [this blogpost](http://android-developers.blogspot.com/2013/03/native-rtl-support-in-android-42.html)
+
+---
+[Wiki home](https://github.com/nstevens/androidguide/) | [Android app](http://play.google.com/store/apps/details?id=com.Prismatic.android) | [Prismatic Github](http://github.com/Prismatic) | [Prismatic](http://getprismatic.com) | [My email](mailto:nick@getprismatic.com) | [My Twitter](http://twitter.com/njs)

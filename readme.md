@@ -35,3 +35,6 @@ Let us know if you have any feedback or additions! nick@getprismatic.com
 Thank you to [Mohammad Almalkawi](https://twitter.com/moh), [Saud Khan](https://twitter.com/bidyut), [Ade Oshineye](https://plus.google.com/+AdeOshineye), [Paul Matthews](https://plus.google.com/+PaulMatthews86), and our [very astute beta tests](http://getprismatic.com/androidbetatesters) and the many authors of [these libraries](Libraries.md)! 
 
 Let me know if you have any feedback or tips on [email](mailto:nick@getprismatic.com) or [Twitter](http://twitter.com/njs). More Prismatic open source available [here](http://github.com/Prismatic/).
+
+---
+[Wiki home](https://github.com/nstevens/androidguide/) | [Android app](http://play.google.com/store/apps/details?id=com.Prismatic.android) | [Prismatic Github](http://github.com/Prismatic) | [Prismatic](http://getprismatic.com) | [My email](mailto:nick@getprismatic.com) | [My Twitter](http://twitter.com/njs)

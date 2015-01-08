@@ -50,3 +50,6 @@ Within `android {}`:
 * Custom Android libraries we could use - [link](http://www.androidviews.net/)
 * Android developer blog - [link](http://android-developers.blogspot.com/)
 * Vogella's Dev Tutorials - [link](http://www.vogella.com/tutorials/android.html)
+
+---
+[Wiki home](https://github.com/nstevens/androidguide/) | [Android app](http://play.google.com/store/apps/details?id=com.Prismatic.android) | [Prismatic Github](http://github.com/Prismatic) | [Prismatic](http://getprismatic.com) | [My email](mailto:nick@getprismatic.com) | [My Twitter](http://twitter.com/njs)

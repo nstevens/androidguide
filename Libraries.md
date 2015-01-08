@@ -16,3 +16,6 @@ If you have any questions about how we use them or know of specific libraries we
 * [**Google Support Library v13**](https://developer.android.com/tools/support-library/features.html)
 
 We haven't settled on a final testing suite. Right now we're trialing [mockito](https://code.google.com/p/mockito/), [roboelectric](http://robolectric.org/) and [appium](http://appium.io/) with Clojure.  [Let us know](mailto:nick@getprismatic.com) if you have tips!
+
+---
+[Wiki home](https://github.com/nstevens/androidguide/) | [Android app](http://play.google.com/store/apps/details?id=com.Prismatic.android) | [Prismatic Github](http://github.com/Prismatic) | [Prismatic](http://getprismatic.com) | [My email](mailto:nick@getprismatic.com) | [My Twitter](http://twitter.com/njs)

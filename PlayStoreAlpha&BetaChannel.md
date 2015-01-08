@@ -21,3 +21,6 @@ We use [this script](https://github.com/googlesamples/android-play-publisher-api
 If the `versionCode` is higher on Production than an Alpha or Beta build, those users will automatically get the Production Build and later update to the Alpha or Beta again if a new apk overtakes the production `versionCode` again.
 
 More details on removing users, doing production staged rollouts, etc are [here](https://support.google.com/googleplay/android-developer/answer/3131213?hl=en)
+
+---
+[Wiki home](https://github.com/nstevens/androidguide/) | [Android app](http://play.google.com/store/apps/details?id=com.Prismatic.android) | [Prismatic Github](http://github.com/Prismatic) | [Prismatic](http://getprismatic.com) | [My email](mailto:nick@getprismatic.com) | [My Twitter](http://twitter.com/njs)

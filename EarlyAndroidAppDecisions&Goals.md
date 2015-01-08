@@ -28,3 +28,6 @@ Fragment reuse means we can stack views on top of each other on a phone but pote
 At Prismatic, we use the Play Store to internally dog food the latest builds (alpha channel) and test newly implemented ideas with a handful of invited beta testers (beta channel) before rolling the changes to everyone (prod channel).
 
 Instructions to set up your own channels are [here](PlayStoreAlpha&BetaChannel).
+
+---
+[Wiki home](https://github.com/nstevens/androidguide/) | [Android app](http://play.google.com/store/apps/details?id=com.Prismatic.android) | [Prismatic Github](http://github.com/Prismatic) | [Prismatic](http://getprismatic.com) | [My email](mailto:nick@getprismatic.com) | [My Twitter](http://twitter.com/njs)

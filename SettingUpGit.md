@@ -36,3 +36,6 @@ The best way to learn how to actually use git will be to pair with someone and a
 
 ## Our git practices
 If you plan to be regularly commiting code, please read the [Prismatic Git practices](https://github.com/Prismatic/eng-practices/blob/master/git/20140403-git.md). It covers our branching model, PR and commit rules, etc.
+
+---
+[Wiki home](https://github.com/nstevens/androidguide/) | [Android app](http://play.google.com/store/apps/details?id=com.Prismatic.android) | [Prismatic Github](http://github.com/Prismatic) | [Prismatic](http://getprismatic.com) | [My email](mailto:nick@getprismatic.com) | [My Twitter](http://twitter.com/njs)
