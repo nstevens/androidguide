@@ -35,6 +35,10 @@ Within `android {}`:
     }
 ```
 
+* Handy resource to find the correct string when adding a new dependency: [gradleplease.appspot.com](http://gradleplease.appspot.com/)
+
+* Gradle plugin to discover dependency updates: [github](https://github.com/ben-manes/gradle-versions-plugin)
+
 ### Design templates
 * Google official Phone & Tablet stencils, Photoshop mocks, Action Bar Icons, wear materials, style guide and Color pallete - [link](https://developer.android.com/design/downloads/index.html)
 * Sketch Material Design template - [link](http://www.sketchappsources.com/free-source/653-android-l-tablet-ui-template.html)
