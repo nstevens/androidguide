@@ -5,6 +5,7 @@ If you have any questions about how we use them or know of specific libraries we
 
 * [**Picasso**](http://square.github.io/picasso/) - A powerful image downloading and caching library for Android 
 * [**Retrofit**](http://square.github.io/retrofit/) - Type-safe REST client for Android and Java by Square, Inc. 
+    * Handy JSON to Java Objects converter: [JSONSchema2Pojo](http://www.jsonschema2pojo.org/)
 * [**RxAndroid**](https://github.com/ReactiveX/RxAndroid) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. 
 * [**Dagger**](http://google.github.io/dagger/) - A fast dependency injector for Android and Java. 
 * [**Butterknife**](http://jakewharton.github.io/butterknife/) - View "injection" library for Android. 
