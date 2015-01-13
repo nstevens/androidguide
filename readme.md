@@ -32,7 +32,7 @@ Let us know if you have any feedback or additions! nick@getprismatic.com
 * **start & end vs left & right:** in xml, those two are the same thing(s) and should always have the same measurements.  They are specifically there to support right to left languages - [details](DesignAndXmlTips.md#right-to-left-language-support)
 
 ### Acknowledgements
-Thank you to [Mohammad Almalkawi](https://twitter.com/moh), [Saud Khan](https://twitter.com/bidyut), [Ade Oshineye](https://plus.google.com/+AdeOshineye), [Paul Matthews](https://plus.google.com/+PaulMatthews86), and our [very astute beta tests](http://getprismatic.com/androidbetatesters) and the many authors of [these libraries](Libraries.md)! 
+Thank you to [Mohammad Almalkawi](https://twitter.com/moh), [Saud Khan](https://twitter.com/bidyut), [Ade Oshineye](https://plus.google.com/+AdeOshineye), [Paul Matthews](https://plus.google.com/+PaulMatthews86), [Ben Manes](https://github.com/ben-manes), and our [very astute beta tests](http://getprismatic.com/androidbetatesters) and the many authors of [these libraries](Libraries.md)! 
 
 Let me know if you have any feedback or tips on [email](mailto:nick@getprismatic.com) or [Twitter](http://twitter.com/njs). More Prismatic open source available [here](http://github.com/Prismatic/).
 
