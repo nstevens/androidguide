@@ -8,8 +8,9 @@ If you have any questions about how we use them or know of specific libraries we
     * Handy JSON to Java Objects converter: [JSONSchema2Pojo](http://www.jsonschema2pojo.org/)
 * [**RxAndroid**](https://github.com/ReactiveX/RxAndroid) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. 
 * [**Dagger**](http://google.github.io/dagger/) - A fast dependency injector for Android and Java. 
-* [**Butterknife**](http://jakewharton.github.io/butterknife/) - View "injection" library for Android. 
-* [**Otto**](http://square.github.io/otto/) - An enhanced Guava-based event bus with emphasis on Android support. 
+* [**Otto**](http://square.github.io/otto/) - An enhanced Guava-based event bus with emphasis on Android support.
+    * [Dave](https://twitter.com/davegolland) wrote a [detailed post](http://blog.getprismatic.com/android-state-saving/) about how we manage app state with Dagger & Otto.
+* [**Butterknife**](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
 * [**Pager Sliding Tab**](https://github.com/astuetz/PagerSlidingTabStrip) - An interactive indicator to navigate between the different pages of a ViewPager
 * [**Circle Image View**](https://github.com/hdodenhof/CircleImageView) - A circular ImageView for Android 
 * [**Crashlytics**](http://try.crashlytics.com/sdk-android/) - crash reporting in real-­time. 

@@ -19,6 +19,7 @@ Let us know if you have any feedback or additions! nick@getprismatic.com
 
 ### [General Android education & resources](GeneralAndroidTemplates&Education.md)
 * **Android libraries:** These are all the libraries we use in the app today: [libraries](Libraries.md)
+* **App State:** - Detailed post on how we manage client app state: [post](http://blog.getprismatic.com/android-state-saving/)
 * **Using Gradle** - Here are some customizations we made to our gradle settings: [build.gradle](GeneralAndroidTemplates&Education.md#buildgradle)
 * **Design resources:** fonts, colors, icons, stencils for sketch and photoshop. A guide to how we added animations to the app: [resources](GeneralAndroidTemplates&Education.md#design-templates)
 * **General education** and other android resources: [education](GeneralAndroidTemplates&Education.md#general-education-and-other-guides)

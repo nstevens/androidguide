@@ -1,6 +1,9 @@
 ### Android libraries
 There are all the libraries we use in the app today: [libraries](Libraries.md)
 
+### App State
+[Dave](https://twitter.com/davegolland) wrote a [detailed post](http://blog.getprismatic.com/android-state-saving/) about how we manage client app state with Dagger & Otto.
+
 ### Build.gradle
 We use [gradle](http://developer.android.com/sdk/installing/studio-build.html) as our build system, the default with Android Studio.  Here are the customizations we've made to our `build.gradle` file:
 
