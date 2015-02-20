@@ -38,6 +38,8 @@ Within `android {}`:
     }
 ```
 
+* We originally had `minSdkVersion 15` & `targetSdkVersion 19` based on our [analysis of current android versions](https://github.com/nstevens/androidguide/blob/master/EarlyAndroidAppDecisions%26Goals.md#our-app-will-support-android-403-api-15-and-above).  If you want to use new material design features available in Android 5.0+, you must set the `targetSdkVersion` to `21` ([more details](MaterialDesign.md)).
+
 * Handy resource to find the correct string when adding a new dependency: [gradleplease.appspot.com](http://gradleplease.appspot.com/)
 
 * Gradle plugin to discover dependency updates: [github](https://github.com/ben-manes/gradle-versions-plugin)
@@ -51,8 +53,7 @@ Within `android {}`:
 * Tumblr of 'beautifully designed' android apps - [link](http://androidniceties.tumblr.com/)
 * "Building the Prismatic Android Loader Animation" by [Steven Schafer](https://twitter.com/stevenschafer) - [link](https://medium.com/@stevenschafer/building-the-prismatic-android-loader-animation-989bd7b30dca)
 * Great blog about Android UI patterns - [link](http://www.androiduipatterns.com/) 
-* Mobile UI patterns blog that has good Android examples - [link](http://www.mobile-patterns.com/)
-* Official Android Material UI guidelines - [link](http://www.google.com/design/spec/material-design)
+* Material Design guide and resources - [link](MaterialDesign.md)
 * Android stencils - [link](http://developer.android.com/design/downloads/index.html)
 * Custom Android libraries we could use - [link](http://www.androidviews.net/)
 * Android developer blog - [link](http://android-developers.blogspot.com/)
