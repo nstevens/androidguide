@@ -1,5 +1,5 @@
 ### Our app will support Android 4.0.3 (API 15) and above
-This equates to ~90% of internet connected Android devices as of November, 2014. ([source](https://developer.android.com/about/dashboards/index.html))
+This equates to ~90% of internet connected Android devices as of November, 2014.  As of February, 2015, supporting Android 4.1+ (API 16) gets you ~86% ([source](https://developer.android.com/about/dashboards/index.html))
 
 Android has gone through a lot of rapid change with each of its 10 major versions. [Comprehensive ArsTechnica 'History of Android'](http://arstechnica.com/gadgets/2014/06/building-android-a-40000-word-history-of-googles-mobile-os/)
 

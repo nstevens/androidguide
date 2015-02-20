@@ -22,6 +22,7 @@ Let us know if you have any feedback or additions! nick@getprismatic.com
 * **App State:** - Detailed post on how we manage client app state: [post](http://blog.getprismatic.com/android-state-saving/)
 * **Using Gradle** - Here are some customizations we made to our gradle settings: [build.gradle](GeneralAndroidTemplates&Education.md#buildgradle)
 * **Design resources:** fonts, colors, icons, stencils for sketch and photoshop. A guide to how we added animations to the app: [resources](GeneralAndroidTemplates&Education.md#design-templates)
+* **Material Design:** A guide for both existing and new apps interested in adopting material design elements: [guide](MaterialDesign.md)
 * **General education** and other android resources: [education](GeneralAndroidTemplates&Education.md#general-education-and-other-guides)
 * **Play Store:** scripts to automate publishing new builds to the Play Store: [from your computer](https://github.com/googlesamples/android-play-publisher-api), [jenkins](https://wiki.jenkins-ci.org/display/JENKINS/Google+Play+Android+Publisher+Plugin)
 * **Intents:** a handy app to debug how your app handles [intents](http://developer.android.com/guide/components/intents-filters.html): [play store](https://play.google.com/store/apps/details?id=uk.co.ashtonbrsc.android.intentintercept&hl=en)
