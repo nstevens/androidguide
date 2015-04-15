@@ -8,7 +8,7 @@ If you have any questions about how we use them or know of specific libraries we
     * Handy JSON to Java Objects converter: [JSONSchema2Pojo](http://www.jsonschema2pojo.org/)
 * [**RxAndroid**](https://github.com/ReactiveX/RxAndroid) - Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM. 
 * [**Dagger**](https://github.com/square/dagger) - A fast dependency injector for Android and Java. 
-    * Note: we still use [Dagger 1.2.2 from Square](https://github.com/square/dagger) but plan to upgrade to [Dagger 2.0 from Google](https://github.com/google/dagger) when it's officially released.
+    * Note: we still use [Dagger 1.2.2 from Square](https://github.com/square/dagger). [Dagger 2.0 from Google](https://github.com/google/dagger) has recently been released and we recommend you start with that if you're building a new app.
 * [**Otto**](http://square.github.io/otto/) - An enhanced Guava-based event bus with emphasis on Android support.
     * [Dave](https://twitter.com/davegolland) wrote a [detailed post](http://blog.getprismatic.com/android-state-saving/) about how we manage app state with Dagger & Otto.
 * [**Butterknife**](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
