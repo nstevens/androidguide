@@ -1,9 +1,9 @@
 ### Our app will support Android 4.0.3 (API 15) and above
-This equates to ~90% of internet connected Android devices as of November, 2014.  As of April, 2015, supporting Android 4.1+ (API 16) gets you ~87% ([source](https://developer.android.com/about/dashboards/index.html))
+This equates to ~96% of internet connected Android devices as of November, 2014.  As of December, 2015, supporting Android 4.2+ (API 17) gets you ~83% ([source](https://developer.android.com/about/dashboards/index.html))
 
 Android has gone through a lot of rapid change with each of its 10 major versions. [Comprehensive ArsTechnica 'History of Android'](http://arstechnica.com/gadgets/2014/06/building-android-a-40000-word-history-of-googles-mobile-os/)
 
-The latest version is Android 5.0, released in October, 2014.  With Android 4.0, Google made a concrete push to standardize widely used techniques, libraries and UI elements.  Writing an app for pre 4.0 means restricting to older APIs, a more limited test suite and often writing more code.  Starting an app now and concretely not supporting older versions will save us a lot of implementation and compatibility/QA time.
+The latest version is Android 6.0, released in October, 2015.  With Android 4.0, Google made a concrete push to standardize widely used techniques, libraries and UI elements.  Writing an app for pre 4.0 means restricting to older APIs, a more limited test suite and often writing more code.  Starting an app now and concretely not supporting older versions will save us a lot of implementation and compatibility/QA time.
 
 ### We prefer stock and widely supported libraries over 'rolling our own' whenever possible.
 Since Android is not owned by one device company, every top manufacturer has tried to differentiate themselves from others by writing custom ‘wrappers,’ launchers, etc on top of the Android Open Source Platform (AOSP).  This means that two Android users with devices made by different manufacturers can have wildly different experiences.  On top of that, service providers (Verizon, Sprint, etc) add their own apps and experiences to differentiate themselves as well.
@@ -30,4 +30,4 @@ At Prismatic, we use the Play Store to internally dog food the latest builds (al
 Instructions to set up your own channels are [here](PlayStoreAlpha&BetaChannel).
 
 ---
-[Wiki home](https://github.com/nstevens/androidguide/) | [Android app](http://play.google.com/store/apps/details?id=com.Prismatic.android) | [Prismatic Github](http://github.com/Prismatic) | [Prismatic](http://getprismatic.com) | [My email](mailto:nick@getprismatic.com) | [My Twitter](http://twitter.com/njs)
+[Wiki home](https://github.com/nstevens/androidguide/) | [Android app](http://play.google.com/store/apps/details?id=com.Prismatic.android) | [Prismatic Github](http://github.com/Prismatic) | [Prismatic](http://getprismatic.com) | [My email](mailto:nick@eyesturnedskywards.com) | [My Twitter](http://twitter.com/njs)

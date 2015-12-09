@@ -4,7 +4,7 @@
 This is the internal guide I wrote to motivate some early Android decisions and educate everyone on the platform.
 This guide is intended for anyone from a new android engineer who just wants to write code as fast as possible, to designers who are interested in committing style changes or assets to the android repo.
 
-Let us know if you have any feedback or additions! nick@getprismatic.com
+Let me know if you have any feedback or additions! nick@eyesturnedskywards.com
 
 # Summary
 ### [Getting setup](Setup.md)
@@ -36,7 +36,7 @@ Let us know if you have any feedback or additions! nick@getprismatic.com
 ### Acknowledgements
 Thank you to [Mohammad Almalkawi](https://twitter.com/moh), [Saud Khan](https://twitter.com/bidyut), [Ade Oshineye](https://plus.google.com/+AdeOshineye), [Paul Matthews](https://plus.google.com/+PaulMatthews86), [Ben Manes](https://github.com/ben-manes), and our [very astute beta tests](http://getprismatic.com/androidbetatesters) and the many authors of [these libraries](Libraries.md)! 
 
-Let me know if you have any feedback or tips on [email](mailto:nick@getprismatic.com) or [Twitter](http://twitter.com/njs). More Prismatic open source available [here](http://github.com/Prismatic/).
+Let me know if you have any feedback or tips on [email](mailto:nick@eyesturnedskywards.com) or [Twitter](http://twitter.com/njs). More Prismatic open source available [here](http://github.com/Prismatic/).
 
 ---
-[Wiki home](https://github.com/nstevens/androidguide/) | [Android app](http://play.google.com/store/apps/details?id=com.Prismatic.android) | [Prismatic Github](http://github.com/Prismatic) | [Prismatic](http://getprismatic.com) | [My email](mailto:nick@getprismatic.com) | [My Twitter](http://twitter.com/njs)
+[Wiki home](https://github.com/nstevens/androidguide/) | [Android app](http://play.google.com/store/apps/details?id=com.Prismatic.android) | [Prismatic Github](http://github.com/Prismatic) | [Prismatic](http://getprismatic.com) | [My email](mailto:nick@eyesturnedskywards.com) | [My Twitter](http://twitter.com/njs)
