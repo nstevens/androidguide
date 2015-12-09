@@ -1,7 +1,7 @@
 ## Our favorite Android libraries
 Below is a list of all the Android libraries we currently use in the [Prismatic Android app](http://play.google.com/store/apps/details?id=com.Prismatic.android).
 
-If you have any questions about how we use them or know of specific libraries we should check out: just shoot us an email at feedback+android@getprismatic.com
+If you have any questions about how we use them or know of specific libraries we should check out: just shoot me an email at nick@eyesturnedskywards.com
 
 * [**Picasso**](http://square.github.io/picasso/) - A powerful image downloading and caching library for Android 
 * [**Retrofit**](http://square.github.io/retrofit/) - Type-safe REST client for Android and Java by Square, Inc. 
@@ -20,7 +20,7 @@ If you have any questions about how we use them or know of specific libraries we
 * [**Google Support Library v13**](https://developer.android.com/tools/support-library/features.html)
 * [**Google App Compat Library v7**](https://developer.android.com/tools/support-library/features.html#v7-appcompat) - to support select Material Design elements in earlier versions of Android. [guide](MaterialDesign.md)
 
-We haven't settled on a final testing suite. Right now we're trialing [mockito](https://code.google.com/p/mockito/), [roboelectric](http://robolectric.org/) and [appium](http://appium.io/) with Clojure.  [Let us know](mailto:nick@getprismatic.com) if you have tips!
+We haven't settled on a final testing suite. Right now we're trialing [mockito](https://code.google.com/p/mockito/), [roboelectric](http://robolectric.org/) and [appium](http://appium.io/) with Clojure.  [Let me know](mailto:nick@eyesturnedskywards.com) if you have tips!
 
 ---
-[Wiki home](https://github.com/nstevens/androidguide/) | [Android app](http://play.google.com/store/apps/details?id=com.Prismatic.android) | [Prismatic Github](http://github.com/Prismatic) | [Prismatic](http://getprismatic.com) | [My email](mailto:nick@getprismatic.com) | [My Twitter](http://twitter.com/njs)
+[Wiki home](https://github.com/nstevens/androidguide/) | [Android app](http://play.google.com/store/apps/details?id=com.Prismatic.android) | [Prismatic Github](http://github.com/Prismatic) | [Prismatic](http://getprismatic.com) | [My email](mailto:nick@eyesturnedskywards.com) | [My Twitter](http://twitter.com/njs)
